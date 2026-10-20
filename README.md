@@ -1,6 +1,6 @@
-# QR Code Detector and Decoder in C++17
+# QR Code Detector and Decoder in C++
 
-A complete QR Code Model 2 detection and decoding pipeline built from scratch in C++17.
+A complete QR Code Model 2 detection and decoding pipeline built from scratch in C++.
 
 The project starts with PNG pixels and implements the full path to a decoded payload: luminance conversion, adaptive binarization, finder detection, geometric correction, module sampling, format decoding, data unmasking, codeword extraction, Reed-Solomon correction, and payload parsing.
 
